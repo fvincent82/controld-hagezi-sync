@@ -49,20 +49,7 @@ names = ["Tesla", "Kids", "Friends", "Adults"]
 # =============================================================================
 
 [profile_folders]
-Tesla   = ["Badware Hoster", "Most Abused TLDs"]
-Kids    = [
-  "Badware Hoster",
-  "Most Abused TLDs",
-  "No Safesearch Support",
-  "Referral Allow"
-]
-Friends = [
-  "Badware Hoster",
-  "Most Abused TLDs",
-  "Referral Allow",
-  "META Tracker Allow"
-]
-Adults  = [
+Test  = [
   "Badware Hoster",
   "Most Abused TLDs",
   "Referral Allow",
